@@ -1,0 +1,741 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FeLIS Natal//Christmas digest calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FeLIS Natal 2026
+X-WR-CALDESC:Kid-friendly Christmas events around Leiria\, from the FeLIS N
+ atal WhatsApp digests. Updated weekly.
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Lisbon
+X-LIC-LOCATION:Europe/Lisbon
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:WEST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:WET
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:caldas-rainha-do-natal-full-programme@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20270110
+SUMMARY:Caldas\, Rainha do Natal (full programme)
+LOCATION:Caldas da Rainha
+DESCRIPTION:Everything is free. Full Christmas programme with over 3 millio
+ n LED lights and a 30m tree. See the link for all events.\n\nhttps://vadi.
+ agem.pt/eventos/programacao-caldas-rainha-do-natal-2026-2027-caldas-4cb4c7
+ 4bd3a7
+URL:https://vadi.agem.pt/eventos/programacao-caldas-rainha-do-natal-2026-20
+ 27-caldas-4cb4c74bd3a7
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:28a-mostra-internacional-de-doces-licores-conventuais@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261123
+SUMMARY:28ª Mostra Internacional de Doces & Licores Conventuais
+LOCATION:Mosteiro de Alcobaça\, Alcobaça
+DESCRIPTION:€1 entry. Taste real convent sweets and liqueurs in a UNESCO 
+ monastery\, a delicious intro to Portuguese Christmas flavours for the who
+ le family.\n\nhttps://cm-alcobaca.pt/84016/28-mostra-internacional-de-doce
+ s-licores-conventuais
+URL:https://cm-alcobaca.pt/84016/28-mostra-internacional-de-doces-licores-c
+ onventuais
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:leiria-natal-2026@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20270104
+SUMMARY:Leiria Natal 2026
+LOCATION:Centro Histórico / Jardim Luís de Camões\, Leiria
+DESCRIPTION:Lights switch on 27 Nov at 21:00. Aldeia do Pai Natal (Santa's 
+ Village)\, Recreio dos Duendes (Elves' Playground)\, train\, carousel\, Me
+ rcadinho Doce and Parada de Natal: the city's big family Christmas. Full p
+ rogramme still TBA.\n\nhttps://www.cm-leiria.pt/areas-de-atividade/turismo
+ /leiria-natal
+URL:https://www.cm-leiria.pt/areas-de-atividade/turismo/leiria-natal
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:leiria-natal-rides-comboio-roda-carrossel@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20270104
+SUMMARY:Leiria Natal rides: Comboio\, Roda & Carrossel
+LOCATION:Jardim Luís de Camões\, Leiria
+DESCRIPTION:Opening night 7pm–midnight. After that: Mon–Thu 2–8pm\, F
+ ri 2pm–midnight\, Sat 11am–midnight\, Sun 11am–8pm. The Christmas tr
+ ain is for ages 2–16\, and the Ferris wheel (age 3+) gives a view over a
+ ll the lights. €2 per ride.\n\nhttps://www.teatrojlsilva.pt/evento/combo
+ io-eletrico-2026
+URL:https://www.teatrojlsilva.pt/evento/comboio-eletrico-2026
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:natal-luz-mosteiro-batalha@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20270107
+SUMMARY:Natal à Luz do Mosteiro (Batalha)
+LOCATION:Largo do Condestável\, Batalha
+DESCRIPTION:Free activities for all ages: Casa do Pai Natal\, kids' train\,
+  slide\, Floresta de Luz Christmas tree exhibition\, Mega Tenda Kids (infl
+ atables\, retro gaming\, Lego exhibition\, workshops\, face painting)\, ob
+ stacle circuit\, traditional games\, Palco Encantado and a Christmas marke
+ t. Lights switch on 27 Nov. Shared by Deborah.\n\nhttps://www.instagram.co
+ m/p/Df25PwLB8dd/
+URL:https://www.instagram.com/p/Df25PwLB8dd/
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:obidos-vila-natal-2026@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20270104
+SUMMARY:Óbidos Vila Natal 2026
+LOCATION:Cerca do Castelo\, Óbidos
+DESCRIPTION:Theme: Pinóquio and the world of marionettes. Kids can make th
+ eir own puppet\, write to Pai Natal and go skating. Fri–Sun & holidays 1
+ 0am–9pm\, Mon–Thu 10am–6pm. Closed 25 Dec & 1 Jan. Tickets €12 adu
+ lt\, €8 child (3–11)\, family from €36. Book a time slot online.\n\n
+ https://obidosvilanatal.pt/en/hours-and-prices
+URL:https://obidosvilanatal.pt/en/hours-and-prices
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:leiria-natal-lights-switch-on@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261127T210000
+SUMMARY:Leiria Natal: lights switch-on
+LOCATION:Centro Histórico\, Leiria
+DESCRIPTION:The whole city lights up at once to open the season. A magical 
+ first night out. Aldeia do Pai Natal and Recreio dos Duendes run until 3 J
+ an.\n\nhttps://www.diarioleiria.pt/2026/11/06/ja-ha-data-para-a-inauguraca
+ o-das-luzes-de-natal/
+URL:https://www.diarioleiria.pt/2026/11/06/ja-ha-data-para-a-inauguracao-da
+ s-luzes-de-natal/
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:castelo-magico-montemor-o-velho@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261224
+SUMMARY:Castelo Mágico (Montemor-o-Velho)
+LOCATION:Castelo de Montemor-o-Velho
+DESCRIPTION:Christmas village in the castle with attractions and family sho
+ ws. Shared by Wanja.\n\nhttps://www.castelomagico.eu/
+URL:https://www.castelomagico.eu/
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:presepio-tradicional-de-filipe-ferreira@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20270107
+SUMMARY:Presépio Tradicional de Filipe Ferreira
+LOCATION:Edifício da Resinagem (Museu do Vidro)\, Marinha Grande
+DESCRIPTION:Free. Wed–Fri 10am–1pm & 2–6pm\, weekends/holidays 10am
+ –1pm & 2–8pm\, closed Mon–Tue. A traditional Portuguese presépio bu
+ ilt as a miniature village with over 1\,500 pieces. Kids love spotting the
+  tiny details.\n\nhttps://www.cm-mgrande.pt/viver/cultura/natal-marinha-gr
+ ande
+URL:https://www.cm-mgrande.pt/viver/cultura/natal-marinha-grande
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:mercadinho-batalha-1128@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261128T140000
+DTEND;TZID=Europe/Lisbon:20261128T200000
+SUMMARY:Mercadinho de Natal: Natal à Luz do Mosteiro
+LOCATION:Largo do Condestável\, Batalha
+DESCRIPTION:A cosy village market in the shadow of the Mosteiro\, with loca
+ l crafts\, treats and seasonal food cooked by local associations. Open 2
+ –8pm.\n\nhttps://www.cm-batalha.pt/areas-de-intervencao/cultura/eventos
+URL:https://www.cm-batalha.pt/areas-de-intervencao/cultura/eventos
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:marinha-grande-iluminacao@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261128T180000
+SUMMARY:Inauguração da Iluminação de Natal (Marinha Grande)
+LOCATION:Parque da Cerca (by the giant tree)\, Marinha Grande
+DESCRIPTION:Kids can watch the lights come on with a brass band and a dance
+  crew performing.\n\nhttps://www.cm-mgrande.pt/viver/cultura/natal-marinha
+ -grande
+URL:https://www.cm-mgrande.pt/viver/cultura/natal-marinha-grande
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:mercadinho-batalha-1129@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261129T140000
+DTEND;TZID=Europe/Lisbon:20261129T200000
+SUMMARY:Mercadinho de Natal: Natal à Luz do Mosteiro
+LOCATION:Largo do Condestável\, Batalha
+DESCRIPTION:A cosy village market in the shadow of the Mosteiro\, with loca
+ l crafts\, treats and seasonal food cooked by local associations. Open 2
+ –8pm.\n\nhttps://www.cm-batalha.pt/areas-de-intervencao/cultura/eventos
+URL:https://www.cm-batalha.pt/areas-de-intervencao/cultura/eventos
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:cortejo-de-luzes-batalha@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261129T163000
+SUMMARY:Cortejo de Luzes (Batalha)
+LOCATION:Batalha town streets
+DESCRIPTION:Free. A lantern procession that local children take part in\, a
+ s part of Natal à Luz do Mosteiro. The Christmas village is open weekends
+  & holidays 2–8pm.\n\nhttps://centralpress.pt/page/156609/redacao/2026/1
+ 1/19/natal-a-luz-do-mosteiro-da-mote-ao-programa-natalicio-do-municipio-da
+ -batalha
+URL:https://centralpress.pt/page/156609/redacao/2026/11/19/natal-a-luz-do-m
+ osteiro-da-mote-ao-programa-natalicio-do-municipio-da-batalha
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:caldas-pai-natal-chega@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261201T103000
+SUMMARY:Caldas: Pai Natal arrives
+LOCATION:Praça 25 de Abril\, Caldas da Rainha
+DESCRIPTION:Free. Pai Natal arrives and sets up his house next to the giant
+  tree.\n\nhttps://vadi.agem.pt/eventos/programacao-caldas-rainha-do-natal-
+ 2026-2027-caldas-4cb4c74bd3a7
+URL:https://vadi.agem.pt/eventos/programacao-caldas-rainha-do-natal-2026-20
+ 27-caldas-4cb4c74bd3a7
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:mercadinho-batalha-1201@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261201T140000
+DTEND;TZID=Europe/Lisbon:20261201T200000
+SUMMARY:Mercadinho de Natal: Natal à Luz do Mosteiro
+LOCATION:Largo do Condestável\, Batalha
+DESCRIPTION:A cosy village market in the shadow of the Mosteiro\, with loca
+ l crafts\, treats and seasonal food cooked by local associations. Open 2
+ –8pm.\n\nhttps://www.cm-batalha.pt/areas-de-intervencao/cultura/eventos
+URL:https://www.cm-batalha.pt/areas-de-intervencao/cultura/eventos
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:o-pai-natal-e-a-rainha-da-neve@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261201T160000
+DTEND;TZID=Europe/Lisbon:20261201T180000
+SUMMARY:O Pai Natal e a Rainha da Neve
+LOCATION:Palco Leiria Natal (Mercado Sant'Ana)\, Leiria
+DESCRIPTION:Free (public holiday). A children's play where the elf Floco ha
+ s to save Christmas from the Snow Queen\, and the audience gets to help.\n
+ \nhttps://leiriagenda.cm-leiria.pt/pt/agenda/o-pai-natal-e-a-rainha-da-nev
+ e
+URL:https://leiriagenda.cm-leiria.pt/pt/agenda/o-pai-natal-e-a-rainha-da-ne
+ ve
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:contos-que-relembram-o-natal@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261205
+SUMMARY:Contos que Relembram o Natal
+LOCATION:Palco Leiria Natal (Mercado Sant'Ana)\, Leiria
+DESCRIPTION:Free. Christmas storytelling by a local Leiria theatre group\, 
+ sessions at 11am\, 2:30pm & 3:30pm each day. More dates 10–18 Dec (see l
+ ink). Nice for little ones after school or nursery.\n\nhttps://leiriagenda
+ .cm-leiria.pt/pt/agenda/contos-que-relembram-o-natal
+URL:https://leiriagenda.cm-leiria.pt/pt/agenda/contos-que-relembram-o-natal
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:natal-em-ourem-fatima-lights-mercado-de-natal@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20270107
+SUMMARY:Natal em Ourém & Fátima: lights & Mercado de Natal
+LOCATION:Jardim Le Plessis-Trévise\, Ourém (Fátima also gets a Christmas
+  market)
+DESCRIPTION:Starts Fri 4 Dec with the light switch-on in Ourém and Fátima
+ . The market runs until 6 Jan\, and the garden hosts a regular sound-and-l
+ ight show. Full programme still to come.\n\nhttps://www.ourem.pt/camara-ap
+ rovou-contratacao-de-iluminacao-de-natal-para-ourem-e-fatima/
+URL:https://www.ourem.pt/camara-aprovou-contratacao-de-iluminacao-de-natal-
+ para-ourem-e-fatima/
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-natal-batalha-1205@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:Auto de Natal (Batalha)
+LOCATION:Praça do Município\, Batalha
+DESCRIPTION:New this year: a Christmas play (Auto de Natal) told in three p
+ arts\, part of Natal à Luz do Mosteiro. Shared by Deborah.\n\nhttps://www
+ .instagram.com/p/Df25PwLB8dd/
+URL:https://www.instagram.com/p/Df25PwLB8dd/
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:natal-encantado-10th-edition-porto-de-mos@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20270107
+SUMMARY:Natal Encantado\, 10th edition (Porto de Mós)
+LOCATION:Porto de Mós village
+DESCRIPTION:Lights\, music\, family shows and a market of local makers. Las
+ t year it also had a Casa do Pai Natal\, a Christmas train and a huge pres
+ épio (nativity scene) contest exhibition. Full 2026 programme coming soon
+ .\n\nhttps://visite.portodemos.pt/pages/1139/?geo_article_id=5212
+URL:https://visite.portodemos.pt/pages/1139/?geo_article_id=5212
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:e-natal-em-alcobaca@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20270107
+SUMMARY:É Natal em Alcobaça
+LOCATION:Rossio (in front of the Mosteiro)\, Alcobaça
+DESCRIPTION:Free entry. Casinha do Pai Natal\, rides\, craft ateliers\, sto
+ rytelling\, live music and the Grande Desfile de Natal parade from the tow
+ n hall to the Mosteiro.\n\nhttps://www.viralagenda.com/pt/events/1828890/e
+ -natal-em-alcobaca
+URL:https://www.viralagenda.com/pt/events/1828890/e-natal-em-alcobaca
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:caldas-casa-pai-natal-1205@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261205T100000
+DTEND;TZID=Europe/Lisbon:20261205T123000
+SUMMARY:Caldas: Casa do Pai Natal
+LOCATION:Caldas da Rainha
+DESCRIPTION:Free. Visit Pai Natal's house\, with a Christmas story session 
+ at 11:00.\n\nhttps://vadi.agem.pt/eventos/programacao-caldas-rainha-do-nat
+ al-2026-2027-caldas-4cb4c74bd3a7
+URL:https://vadi.agem.pt/eventos/programacao-caldas-rainha-do-natal-2026-20
+ 27-caldas-4cb4c74bd3a7
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:mercadinho-batalha-1205@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261205T140000
+DTEND;TZID=Europe/Lisbon:20261205T200000
+SUMMARY:Mercadinho de Natal: Natal à Luz do Mosteiro
+LOCATION:Largo do Condestável\, Batalha
+DESCRIPTION:A cosy village market in the shadow of the Mosteiro\, with loca
+ l crafts\, treats and seasonal food cooked by local associations. Open 2
+ –8pm.\n\nhttps://www.cm-batalha.pt/areas-de-intervencao/cultura/eventos
+URL:https://www.cm-batalha.pt/areas-de-intervencao/cultura/eventos
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:o-natal-congelado@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261205T160000
+DTEND;TZID=Europe/Lisbon:20261205T180000
+SUMMARY:O Natal Congelado
+LOCATION:Palco Leiria Natal (Mercado Sant'Ana)\, Leiria
+DESCRIPTION:Free. A musical with original songs where Fada Estrelinha (Litt
+ le Star Fairy) frees Pai Natal from the Ice Witch.\n\nhttps://leiriagenda.
+ cm-leiria.pt/pt/agenda/o-natal-congelado
+URL:https://leiriagenda.cm-leiria.pt/pt/agenda/o-natal-congelado
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:mercadinho-de-natal-guia-pombal@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261221
+SUMMARY:Mercadinho de Natal (Guia\, Pombal)
+LOCATION:Largo do Rossio\, Guia (Pombal)
+DESCRIPTION:Free. Opens 6 Dec at 10am. A village Christmas market with loca
+ l crafts\, products and activities\, run by the local parish.\n\nhttps://p
+ ombal-acontece.cm-pombal.pt/eventos/-209
+URL:https://pombal-acontece.cm-pombal.pt/eventos/-209
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:caldas-casa-pai-natal-1206@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261206T100000
+DTEND;TZID=Europe/Lisbon:20261206T123000
+SUMMARY:Caldas: Casa do Pai Natal
+LOCATION:Caldas da Rainha
+DESCRIPTION:Free. Visit Pai Natal's house\, with a Christmas story session 
+ at 11:00.\n\nhttps://vadi.agem.pt/eventos/programacao-caldas-rainha-do-nat
+ al-2026-2027-caldas-4cb4c74bd3a7
+URL:https://vadi.agem.pt/eventos/programacao-caldas-rainha-do-natal-2026-20
+ 27-caldas-4cb4c74bd3a7
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:mercadinho-batalha-1206@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261206T140000
+DTEND;TZID=Europe/Lisbon:20261206T200000
+SUMMARY:Mercadinho de Natal: Natal à Luz do Mosteiro
+LOCATION:Largo do Condestável\, Batalha
+DESCRIPTION:A cosy village market in the shadow of the Mosteiro\, with loca
+ l crafts\, treats and seasonal food cooked by local associations. Open 2
+ –8pm.\n\nhttps://www.cm-batalha.pt/areas-de-intervencao/cultura/eventos
+URL:https://www.cm-batalha.pt/areas-de-intervencao/cultura/eventos
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:parada-de-natal-leiria@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261206T150000
+SUMMARY:Parada de Natal (Leiria)
+LOCATION:Leiria city streets
+DESCRIPTION:A parade with music\, colour and Christmas characters. Families
+  are invited to join in.\n\nhttps://www.cm-leiria.pt/municipio/comunicacao
+ /noticias/noticia/espetaculo-piromusical-e-de-luz-e-coro-gospel-abrem-o-le
+ iria-natal-2026
+URL:https://www.cm-leiria.pt/municipio/comunicacao/noticias/noticia/espetac
+ ulo-piromusical-e-de-luz-e-coro-gospel-abrem-o-leiria-natal-2026
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:ninfas-do-lis-orquestra-ars-lusitanae@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261207T213000
+SUMMARY:Ninfas do Lis & Orquestra Ars Lusitanae
+LOCATION:Teatro Stephens\, Marinha Grande
+DESCRIPTION:€3 (bol.pt or box office). A festive family concert with choi
+ r and orchestra\, a good late treat for older kids before the 8 Dec holida
+ y.\n\nhttps://www.cm-mgrande.pt/viver/cultura/natal-marinha-grande
+URL:https://www.cm-mgrande.pt/viver/cultura/natal-marinha-grande
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:mercadinho-batalha-1208@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261208T140000
+DTEND;TZID=Europe/Lisbon:20261208T200000
+SUMMARY:Mercadinho de Natal: Natal à Luz do Mosteiro
+LOCATION:Largo do Condestável\, Batalha
+DESCRIPTION:A cosy village market in the shadow of the Mosteiro\, with loca
+ l crafts\, treats and seasonal food cooked by local associations. Open 2
+ –8pm.\n\nhttps://www.cm-batalha.pt/areas-de-intervencao/cultura/eventos
+URL:https://www.cm-batalha.pt/areas-de-intervencao/cultura/eventos
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:o-grande-concerto-das-estrelas@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261208T160000
+DTEND;TZID=Europe/Lisbon:20261208T180000
+SUMMARY:O Grande Concerto das Estrelas
+LOCATION:Palco Leiria Natal (Mercado Sant'Ana)\, Leiria
+DESCRIPTION:Free entry (public holiday). A teddy bear\, a snowman\, reindee
+ r and a gingerbread man sing and dance with simple songs kids can join in 
+ with\, and Pai Natal arrives for the finale.\n\nhttps://leiriagenda.cm-lei
+ ria.pt/pt/agenda/o-grande-concerto-das-estrelas
+URL:https://leiriagenda.cm-leiria.pt/pt/agenda/o-grande-concerto-das-estrel
+ as
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:caldas-free-christmas-train@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261225
+SUMMARY:Caldas: free Christmas train
+LOCATION:Caldas da Rainha (lit-up streets)
+DESCRIPTION:Free train around the lit-up streets\, in the afternoons for th
+ e public. Donations go to the local firefighters.\n\nhttps://vadi.agem.pt/
+ eventos/programacao-caldas-rainha-do-natal-2026-2027-caldas-4cb4c74bd3a7
+URL:https://vadi.agem.pt/eventos/programacao-caldas-rainha-do-natal-2026-20
+ 27-caldas-4cb4c74bd3a7
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-natal-batalha-1212@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:Auto de Natal (Batalha)
+LOCATION:Praça Mouzinho de Albuquerque\, Batalha
+DESCRIPTION:New this year: a Christmas play (Auto de Natal) told in three p
+ arts\, part of Natal à Luz do Mosteiro. Shared by Deborah.\n\nhttps://www
+ .instagram.com/p/Df25PwLB8dd/
+URL:https://www.instagram.com/p/Df25PwLB8dd/
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:caldas-casa-pai-natal-1212@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261212T100000
+DTEND;TZID=Europe/Lisbon:20261212T123000
+SUMMARY:Caldas: Casa do Pai Natal
+LOCATION:Caldas da Rainha
+DESCRIPTION:Free. Visit Pai Natal's house\, with a Christmas story session 
+ at 11:00.\n\nhttps://vadi.agem.pt/eventos/programacao-caldas-rainha-do-nat
+ al-2026-2027-caldas-4cb4c74bd3a7
+URL:https://vadi.agem.pt/eventos/programacao-caldas-rainha-do-natal-2026-20
+ 27-caldas-4cb4c74bd3a7
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:mercadinho-batalha-1212@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261212T140000
+DTEND;TZID=Europe/Lisbon:20261212T200000
+SUMMARY:Mercadinho de Natal: Natal à Luz do Mosteiro
+LOCATION:Largo do Condestável\, Batalha
+DESCRIPTION:A cosy village market in the shadow of the Mosteiro\, with loca
+ l crafts\, treats and seasonal food cooked by local associations. Open 2
+ –8pm.\n\nhttps://www.cm-batalha.pt/areas-de-intervencao/cultura/eventos
+URL:https://www.cm-batalha.pt/areas-de-intervencao/cultura/eventos
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:caldas-casa-pai-natal-1213@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261213T100000
+DTEND;TZID=Europe/Lisbon:20261213T123000
+SUMMARY:Caldas: Casa do Pai Natal
+LOCATION:Caldas da Rainha
+DESCRIPTION:Free. Visit Pai Natal's house\, with a Christmas story session 
+ at 11:00.\n\nhttps://vadi.agem.pt/eventos/programacao-caldas-rainha-do-nat
+ al-2026-2027-caldas-4cb4c74bd3a7
+URL:https://vadi.agem.pt/eventos/programacao-caldas-rainha-do-natal-2026-20
+ 27-caldas-4cb4c74bd3a7
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:mercadinho-batalha-1213@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261213T140000
+DTEND;TZID=Europe/Lisbon:20261213T200000
+SUMMARY:Mercadinho de Natal: Natal à Luz do Mosteiro
+LOCATION:Largo do Condestável\, Batalha
+DESCRIPTION:A cosy village market in the shadow of the Mosteiro\, with loca
+ l crafts\, treats and seasonal food cooked by local associations. Open 2
+ –8pm.\n\nhttps://www.cm-batalha.pt/areas-de-intervencao/cultura/eventos
+URL:https://www.cm-batalha.pt/areas-de-intervencao/cultura/eventos
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:bola-de-natal-1213@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261213T150000
+DTEND;TZID=Europe/Lisbon:20261213T170000
+SUMMARY:Sopra a tua Bola de Natal (blow your own bauble)
+LOCATION:PoeirasGlass studio (by the Museu do Vidro)\, Marinha Grande
+DESCRIPTION:Free\, age 10+ with an adult\, max 5 people per hour. Kids blow
+  their own glass Christmas bauble with a master glassblower and collect it
+  the next day. Book by 6 Dec at museu.vidro@cm-mgrande.pt.\n\nhttps://www.
+ cm-mgrande.pt/viver/cultura/natal-marinha-grande
+URL:https://www.cm-mgrande.pt/viver/cultura/natal-marinha-grande
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-natal-batalha-1219@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261221
+SUMMARY:Auto de Natal (Batalha)
+LOCATION:Largo do Condestável\, Batalha
+DESCRIPTION:New this year: a Christmas play (Auto de Natal) told in three p
+ arts\, part of Natal à Luz do Mosteiro. Shared by Deborah.\n\nhttps://www
+ .instagram.com/p/Df25PwLB8dd/
+URL:https://www.instagram.com/p/Df25PwLB8dd/
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:caldas-casa-pai-natal-1219@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261219T100000
+DTEND;TZID=Europe/Lisbon:20261219T123000
+SUMMARY:Caldas: Casa do Pai Natal
+LOCATION:Caldas da Rainha
+DESCRIPTION:Free. Visit Pai Natal's house\, with a Christmas story session 
+ at 11:00.\n\nhttps://vadi.agem.pt/eventos/programacao-caldas-rainha-do-nat
+ al-2026-2027-caldas-4cb4c74bd3a7
+URL:https://vadi.agem.pt/eventos/programacao-caldas-rainha-do-natal-2026-20
+ 27-caldas-4cb4c74bd3a7
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:mercadinho-batalha-1219@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261219T140000
+DTEND;TZID=Europe/Lisbon:20261219T200000
+SUMMARY:Mercadinho de Natal: Natal à Luz do Mosteiro
+LOCATION:Largo do Condestável\, Batalha
+DESCRIPTION:A cosy village market in the shadow of the Mosteiro\, with loca
+ l crafts\, treats and seasonal food cooked by local associations. Open 2
+ –8pm.\n\nhttps://www.cm-batalha.pt/areas-de-intervencao/cultura/eventos
+URL:https://www.cm-batalha.pt/areas-de-intervencao/cultura/eventos
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:caldas-casa-pai-natal-1220@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261220T100000
+DTEND;TZID=Europe/Lisbon:20261220T123000
+SUMMARY:Caldas: Casa do Pai Natal
+LOCATION:Caldas da Rainha
+DESCRIPTION:Free. Visit Pai Natal's house\, with a Christmas story session 
+ at 11:00.\n\nhttps://vadi.agem.pt/eventos/programacao-caldas-rainha-do-nat
+ al-2026-2027-caldas-4cb4c74bd3a7
+URL:https://vadi.agem.pt/eventos/programacao-caldas-rainha-do-natal-2026-20
+ 27-caldas-4cb4c74bd3a7
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:mercadinho-batalha-1220@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261220T140000
+DTEND;TZID=Europe/Lisbon:20261220T200000
+SUMMARY:Mercadinho de Natal: Natal à Luz do Mosteiro
+LOCATION:Largo do Condestável\, Batalha
+DESCRIPTION:A cosy village market in the shadow of the Mosteiro\, with loca
+ l crafts\, treats and seasonal food cooked by local associations. Open 2
+ –8pm.\n\nhttps://www.cm-batalha.pt/areas-de-intervencao/cultura/eventos
+URL:https://www.cm-batalha.pt/areas-de-intervencao/cultura/eventos
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:caldas-street-theatre-for-kids@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261224
+SUMMARY:Caldas: street theatre for kids
+LOCATION:Caldas da Rainha
+DESCRIPTION:Free. Duendes Perdidos\, Jornalistas de Natal and Carteiros do 
+ Pai Natal.\n\nhttps://vadi.agem.pt/eventos/programacao-caldas-rainha-do-na
+ tal-2026-2027-caldas-4cb4c74bd3a7
+URL:https://vadi.agem.pt/eventos/programacao-caldas-rainha-do-natal-2026-20
+ 27-caldas-4cb4c74bd3a7
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+BEGIN:VEVENT
+UID:bola-de-natal-1222@felis-natal
+DTSTAMP:20261120T103708Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Lisbon:20261222T150000
+DTEND;TZID=Europe/Lisbon:20261222T170000
+SUMMARY:Sopra a tua Bola de Natal (blow your own bauble)
+LOCATION:PoeirasGlass studio (by the Museu do Vidro)\, Marinha Grande
+DESCRIPTION:Free\, age 10+ with an adult\, max 5 people per hour. Kids blow
+  their own glass Christmas bauble with a master glassblower and collect it
+  the next day. Book by 6 Dec at museu.vidro@cm-mgrande.pt.\n\nhttps://www.
+ cm-mgrande.pt/viver/cultura/natal-marinha-grande
+URL:https://www.cm-mgrande.pt/viver/cultura/natal-marinha-grande
+TRANSP:TRANSPARENT
+CATEGORIES:Christmas,Family
+END:VEVENT
+END:VCALENDAR
