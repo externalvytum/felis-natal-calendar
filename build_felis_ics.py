@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Builds felis-natal-2026.ics from events transcribed from the FeLIS Natal archive doc."""
-from datetime import date, datetime, timedelta, timezone
+from datetime import date, datetime, timedelta
 import re, sys, unicodedata
 
 def slug(s):
@@ -53,6 +53,7 @@ ev("Castelo Mágico (Montemor-o-Velho)","Castelo de Montemor-o-Velho","Christmas
 ev("Natal à Luz do Mosteiro (Batalha)","Largo do Condestável, Batalha","Free activities for all ages: Casa do Pai Natal, kids' train, slide, Floresta de Luz Christmas tree exhibition, Mega Tenda Kids (inflatables, retro gaming, Lego exhibition, workshops, face painting), obstacle circuit, traditional games, Palco Encantado and a Christmas market. Lights switch on 27 Nov. Shared by Deborah.","https://www.instagram.com/p/Df25PwLB8dd/",D(11,27),date(2027,1,6),key="natal-luz-mosteiro-batalha")
 for a,b,pl in [((12,5),(12,6),"Praça do Município"),((12,12),(12,13),"Praça Mouzinho de Albuquerque"),((12,19),(12,20),"Largo do Condestável")]:
     ev("Auto de Natal (Batalha)","%s, Batalha"%pl,"New this year: a Christmas play (Auto de Natal) told in three parts, part of Natal à Luz do Mosteiro. Shared by Deborah.","https://www.instagram.com/p/Df25PwLB8dd/",D(*a),D(*b),key="auto-natal-batalha-%02d%02d"%a)
+ev("Christmas Concert: Leiria choirs (Aldeia Natal)","Aldeia Natal Leiria, Leiria","Multi-choir Christmas concert bringing together several Leiria choirs, including the Coro Infanto-Juvenil da Academia Coral Mezzo. Shared by a group member.","https://externalvytum.github.io/felis-natal-calendar/",D(11,29),t0=T(15),t1=T(16,30),key="concerto-natal-aldeia-natal-leiria-1129")
 
 # ---------------- render ----------------
 def esc(s): return s.replace('\\','\\\\').replace(';','\\;').replace(',','\\,').replace('\n','\\n')
@@ -64,7 +65,7 @@ def fold(line):
             out.append(cur); cur=' '+ch; n=1+b
         else: cur+=ch; n+=b
     out.append(cur); return '\r\n'.join(out)
-now=datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')
+now=datetime.utcnow().strftime('%Y%m%dT%H%M%SZ')
 L=["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//FeLIS Natal//Christmas digest calendar//EN","CALSCALE:GREGORIAN","METHOD:PUBLISH",
 "X-WR-CALNAME:FeLIS Natal 2026","X-WR-CALDESC:"+esc("Kid-friendly Christmas events around Leiria, from the FeLIS Natal WhatsApp digests. Updated weekly."),
 "X-WR-TIMEZONE:Europe/Lisbon","REFRESH-INTERVAL;VALUE=DURATION:PT12H","X-PUBLISHED-TTL:PT12H",
@@ -86,5 +87,5 @@ for e in sorted(EV,key=lambda e:(e['start'],e['t0'] or (0,0),e['title'])):
         if e['t1']: L.append("DTEND;TZID=Europe/Lisbon:%sT%02d%02d00"%(e['start'].strftime('%Y%m%d'),*e['t1']))
     L+=["SUMMARY:"+esc(e['title']),"LOCATION:"+esc(e['loc']),"DESCRIPTION:"+esc(e['blurb']+"\n\n"+e['url']),"URL:"+e['url'],"TRANSP:TRANSPARENT","CATEGORIES:Christmas,Family","END:VEVENT"]
 L.append("END:VCALENDAR")
-open('felis-natal-2026.ics','w',newline='').write('\r\n'.join(fold(l) for l in L)+'\r\n')
+open('/workspace/felis-natal-2026.ics','w',newline='').write('\r\n'.join(fold(l) for l in L)+'\r\n')
 print(len(EV),"events")
